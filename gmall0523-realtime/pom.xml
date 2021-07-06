@@ -15,7 +15,7 @@
         <httpclient.version>4.5.5</httpclient.version>
         <httpmime.version>4.3.6</httpmime.version>
         <spark.version>3.0.0</spark.version>
-        <scala.version>2.12.11</scala.version>
+        <scala.version>2.12.12</scala.version>
         <kafka.version>2.4.1</kafka.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
